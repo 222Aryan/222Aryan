@@ -1,9 +1,9 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2><br>
 </div>
 
 <div align = "center"  >
-  <img src="https://github.com/222Aryan/222Aryan/blob/main/bafuwkzt.gif" alt="Welcome!" width="700"/>
+  <img src="https://github.com/222Aryan/222Aryan/blob/main/bafuwkzt.gif" alt="Welcome!" width="700"/><br><br>
 </div>
 <div align="center">
 
@@ -11,8 +11,8 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   
 <i>Happy Coding!</i> 😊
-
-</div>
+  
+</div><br>
 <div align="center">
   
   <picture align = "center">
@@ -26,9 +26,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   />
   <img src="https://github-readme-stats.vercel.app/api?username=222Aryan&show_icons=true" />
   </picture>
-</div>
+</div><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222Aryan&layout=compact)](https://github.com/222Aryan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222Aryan&layout=compact)](https://github.com/222Aryan/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/222Aryan/github-readme-stats)
 
