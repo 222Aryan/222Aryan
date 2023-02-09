@@ -11,7 +11,7 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   
 <i>Happy Coding!</i> 😊
-</div><br>
+</div>
 <div>
  <ul>
             <li>🔭 <b>I’m currently working on</b>: Python in Artificial Intelligence and Machine Learning.</li>
@@ -40,8 +40,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 
 <div align ="center">
+  
   <i>Follow me around the web:</i><br>
-
+<br>
   <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-  square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 </div>
