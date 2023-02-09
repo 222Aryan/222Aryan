@@ -11,26 +11,33 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   
 <i>Happy Coding!</i> 😊
-  
 </div><br>
+<div>
+ <ul>
+            <li>🔭 <b>I’m currently working on</b>: Python in Artificial Intelligence and Machine Learning.</li>
+            <li>🌱 <b>I’m currently learning</b>: Python , CPP JS.</li>
+            <li>💬 <b>Ask me about</b>: Python , Oops  and Competetive Programming.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to follow me here.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity .</li>
+            <li>⚡ Fun fact: <b>I think a lot </b>.</li>
+        </ul>
+</div>
+<div>
+    <div align="center">
+        <h1>📊 Github Stats</h1>
+        <a href="https://github.com/222Aryan"><img src="https://github-readme-stats.vercel.app/api?username=222Aryan&theme=blue-green&count_private=true&show_icons=true" title="Aryan's GitHub Stats" height="200"/></a>
+      <br>
+      <br>
+        <a href="https://github.com/222Aryan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=222Aryan&theme=blue-green" title="Aryan's GitHub Stats" height="200"/></a>
+        <br><br>
+    </div>
+</div>
+
 <div align="center">
-  
-  <picture align = "center">
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=222Aryan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=222Aryan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=222Aryan&show_icons=true" />
-  </picture>
-</div><br><br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222Aryan&layout=compact)](https://github.com/222Aryan/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/222Aryan/github-readme-stats)
+    <h2>📊 Top Used Languages</h2>
+    <br><a href="https://github.com/222Aryan"><img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222Aryan&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="Aryan's Top Languages"/></a><br>
+    <br><br>
+</div>
 
 <div align ="center">
   <i>Follow me around the web:</i><br>
