@@ -14,11 +14,15 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <div>
  <ul>
-    <li>🔭 <b>I’m currently working on</b>: Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.</li>
-    <li>🌱 <b>I’m currently learning</b>: Python, C++, JavaScript, HTML, CSS, and various frameworks like TensorFlow, PyTorch, React, and Django.</li>
-    <li>💬 <b>Ask me about</b>: Python, Object-Oriented Programming, Algorithms, Data Structures, and best practices in AI/ML development.</li>
-    <li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to following me here.</li>
-    <li>🤔 <b>I’m currently open for</b>: A new internship or job opportunity where I can apply my skills in AI, ML, Data Science, and Full Stack Development.</li>
+    <li>🌟 <b>Exploring:</b> Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.</li>
+    <li>📘 <b>Expanding my knowledge in:</b> Python, C++, JavaScript, HTML/CSS, and frameworks like TensorFlow, PyTorch, React, and Django.</li>
+    <li>🔍 <b>Investigating:</b> Natural Language Processing, Computer Vision, Big Data, and Cloud Computing.</li>
+    <li>📊 <b>Analyzing:</b> Data wrangling, Statistical Analysis, and Visualization techniques.</li>
+    <li>🔢 <b>Dabbling in databases:</b> MySQL, MongoDB, SQLite, and PostgreSQL.</li>
+    <li>☁️ <b>Exploring the clouds:</b> AWS (Amazon Web Services), Google Cloud Platform, and Azure.</li>
+    <li style="font-size: smaller;">💬 <b>Delve into discussions about:</b> Python, Object-Oriented Programming, Algorithms, Data Structures, and competitive coding.</li>
+    <li>📧 <b>Drop me a line:</b> Reach out through the links below 👇, and don't hesitate to connect here.</li>
+    <li>🚪 <b>Open to new doors:</b> Eagerly seeking new internship or job opportunities to apply my skills in AI, ML, Data Science, and Full Stack Development.</li>
 </ul>
 </div>
 <div>
