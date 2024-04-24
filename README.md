@@ -14,13 +14,12 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <div>
  <ul>
-            <li>🔭 <b>I’m currently working on</b>: Python in Artificial Intelligence and Machine Learning.</li>
-            <li>🌱 <b>I’m currently learning</b>: Python , CPP JS.</li>
-            <li>💬 <b>Ask me about</b>: Python , Oops  and Competetive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity .</li>
-            <li>⚡ Fun fact: <b>I think a lot </b>.</li>
-        </ul>
+    <li>🔭 <b>I’m currently working on</b>: Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.</li>
+    <li>🌱 <b>I’m currently learning</b>: Python, C++, JavaScript, HTML, CSS, and various frameworks like TensorFlow, PyTorch, React, and Django.</li>
+    <li>💬 <b>Ask me about</b>: Python, Object-Oriented Programming, Algorithms, Data Structures, and best practices in AI/ML development.</li>
+    <li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to following me here.</li>
+    <li>🤔 <b>I’m currently open for</b>: A new internship or job opportunity where I can apply my skills in AI, ML, Data Science, and Full Stack Development.</li>
+</ul>
 </div>
 <div>
     <div align="center">
