@@ -20,7 +20,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <li>📊 <b>Analyzing:</b> Data wrangling, Statistical Analysis, and Visualization techniques.</li>
     <li>🔢 <b>Dabbling in databases:</b> MySQL, MongoDB, SQLite, and PostgreSQL.</li>
     <li>☁️ <b>Exploring the clouds:</b> AWS (Amazon Web Services), Google Cloud Platform, and Azure.</li>
-    <li style="font-size: smaller;">💬 <b>Delve into discussions about:</b> Python, Object-Oriented Programming, Algorithms, Data Structures, and competitive coding.</li>
+    <li style="font-size: smaller;">💬 <b>Delve into discussions about:</b> Python, Object-Oriented Programming, Algorithms, Data Structures, and Competitive Coding.</li>
     <li>📧 <b>Drop me a line:</b> Reach out through the links below 👇, and don't hesitate to connect here.</li>
     <li>🚪 <b>Open to new doors:</b> Eagerly seeking new internship or job opportunities to apply my skills in AI, ML, Data Science, and Full Stack Development.</li>
 </ul>
