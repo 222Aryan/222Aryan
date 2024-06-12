@@ -27,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <div>
     <div align="center">
-        <h1>📊 Github Stats</h1>
+        <h2>📊 Github Stats</h2>
         <a href="https://github.com/222Aryan"><img src="https://github-readme-stats.vercel.app/api?username=222Aryan&theme=blue-green&count_private=true&show_icons=true" title="Aryan's GitHub Stats" height="200"/></a>
       <br>
       <br>
@@ -44,7 +44,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align ="center">
   
-  <i>Follow me around the web:</i><br>
+  <h3>Connect with me:</h3><br>
 <br>
   <a href="https://www.linkedin.com/in/aryan-trivedi-2b6330242/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
         <a href="mailto:aryantrivedi222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -52,3 +52,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
         <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
   
 </div>
+
